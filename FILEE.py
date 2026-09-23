@@ -1,6 +1,9 @@
-import os,platform
+import os, platform
+os.system('xdg-open https://facebook.com/groups/3017062245271082/')
+os.system('git pull')
+bit = platform.architecture()[0]
+if bit == '64bit':
+    import Dump
+elif bit == '32bit':
+    import Dump32
  
-os.system('xdg-open https://www.facebook.com/profile.php?id=100074766201169')
- 
- 
-import dump
