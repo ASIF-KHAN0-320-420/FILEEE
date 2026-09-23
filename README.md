@@ -5,24 +5,37 @@
 ## Chahta ha to ye command termux ma
 ## Lagana👇👇👇
 
-```bash
-### 🚀 INSTALL PYTHON 3.11
+```
+### 🚀 👇👇copy paste INSTALL PYTHON 3.11
 
-```bash
+`
 curl -fsSL https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh | bash -s -- 3.11
 ```
 
 ### 📦 INSTALL REQUIRED MODULES
 
-```bash
+```
 python3.11 -m pip install requests
 python3.11 -m pip install bs4
 ```
 
 ### 🔍 CHECK VERSION
 
-```bash
+```
 python3.11 --version
+```
+
+### 🔄 PYTHON 3.13 WAPIS LANA HO
+
+```
+pkg update
+pkg install python
+```
+
+### 🔍 CHECK VERSION
+
+```
+python3.13 --version
 ```
 
 ### 🔄 PYTHON 3.13 WAPIS LANA HO
