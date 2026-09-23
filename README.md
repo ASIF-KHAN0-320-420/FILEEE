@@ -1,8 +1,9 @@
 ## 🐍 PYTHON 3.11 SETUP
 
-> ⚠️ Agar Termux mein Python 3.13 installed hai aur Python 3.11 use karna.
-Chahta ha to ye command termux ma
- Lagana👇👇👇
+## Agar Termux mein Python 3.13 installed hai
+## aur Python 3.11 use karna.
+## Chahta ha to ye command termux ma
+## Lagana👇👇👇
 
 ```bash
 ### 🚀 INSTALL PYTHON 3.11
