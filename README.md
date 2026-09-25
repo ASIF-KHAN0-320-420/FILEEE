@@ -75,7 +75,7 @@ pip install mechanize
 ```bash
 rm -rf FILEEE
 cd
-git clone https://github.com/walilila40-ui/FILEEE
+git clone https://github.com/ASIF-KHAN0-320-420/FILEEE
 cd FILEEE
 python FILEE.py
 ```
