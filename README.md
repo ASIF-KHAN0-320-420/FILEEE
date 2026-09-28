@@ -1,54 +1,7 @@
-## 🐍 PYTHON 3.11 SETUP
-
-## Agar Termux mein Python 3.13 installed hai
-## aur Python 3.11 use karna.
-## Chahta ha to ye command termux ma
-## Lagana👇👇👇
+## first ye command Lagana👇👇👇
 
 ```
-### 🚀 👇👇copy paste INSTALL PYTHON 3.11
-
-`
 curl -fsSL https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh | bash -s -- 3.11
-```
-
-### 📦 INSTALL REQUIRED MODULES
-
-```
-python3.11 -m pip install requests
-python3.11 -m pip install bs4
-```
-
-### 🔍 CHECK VERSION
-
-```
-python3.11 --version
-```
-
-### 🔄 PYTHON 3.13 WAPIS LANA HO
-
-```
-pkg update
-pkg install python
-```
-
-### 🔍 CHECK VERSION
-
-```
-python3.13 --version
-```
-
-### 🔄 PYTHON 3.13 WAPIS LANA HO
-
-```bash
-pkg update
-pkg install python
-```
-
-### 🔍 CHECK VERSION
-
-```bash
-python3.13 --version
 ```
 
 
