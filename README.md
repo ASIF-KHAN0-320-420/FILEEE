@@ -1,35 +1,35 @@
-## first ye command Lagana👇👇👇
+# ⚡ FILEEE Installation
 
-```
-curl -fsSL https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh | bash -s -- 3.11
-```
-
-
-
-## ⚡ INSTALL TOOL ON TERMUX
+## Pehle Python 3.11 install karo 👇
 
 ```bash
-pkg update
-pkg upgrade
-
-pkg install python
-pkg install git
-
-pip install requests
-pip install bs4
-pip install futures
-pip install mechanize
+curl -fsSL [https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh](https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh) | bash -s -- 3.11
 ```
 
-## 🚀 ES COMMAND K LIYE 
-## ✅ PEHLY OPER COMMAND SE TERMUX 
-## ✅ PYTHON 3.11 SETUP KARNA HOGA TAK ## ✅ WORKING HOGI
+## ⚡ Install Tool on Termux
 
-```bash
-rm -rf FILEEE
-cd
-git clone https://github.com/ASIF-KHAN0-320-420/FILEEE
-cd FILEEE
-python FILEE.py
-```
+- `pkg update`
 
+- `pkg upgrade`
+
+- `pkg install python`
+
+- `pkg install git`
+
+- `pip install requests`
+
+- `pip install bs4`
+
+- `pip install futures`
+
+- `pip install mechanize`
+
+- `rm -rf FILEEE`
+
+- `cd`
+
+- `git clone https://github.com/ASIF-KHAN0-320-420/FILEEE`
+
+- `cd FILEEE`
+
+- `python FILEE.py`
